@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @KappaCoding, but you can just call me Kappa!
 - 👀 I’m interested in JavaScript and cyber security.
 - 🌱 I’m currently learning JavaScript.
-- 📫 How to reach me: lesabinsky@gmail.com or dkgaming56@gmail.com
 - 😄 Pronouns: he/him
